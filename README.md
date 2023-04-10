@@ -1,6 +1,5 @@
 ### Welcome 
 
-<img src="[https://www.instagram.com/lazy_corgi_hk/](https://giphy.com/gifs/lazy-corgi-T0ph30SEe8W15fLHIU)" height="240" width="480">
 
 <!--
 **Erimed33/Erimed33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
